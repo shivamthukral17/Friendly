@@ -1,0 +1,143 @@
+
+body{
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+#header {
+  background-color: #4267b2;
+  height: 55px;
+}
+
+#header a{
+  color:#fff;
+}
+
+#dd li a{
+  color:#000;
+}
+
+#dd {
+  width:270px;
+}
+
+#header .glyphicon-triangle-bottom{
+  color:#000;
+}
+
+#wrapper {
+  margin-top: 80px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+
+#menu .badge{
+  background-color: transparent;
+  color: #000;
+  position: absolute;
+  right: 15px;
+}
+
+#menu{
+  position: relative;
+}
+
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+
+p{
+  padding: 5px 0px 1px 20px;
+  font-size: 12px;
+}
+
+.badge{
+  padding-left: 50px;
+}
+
+.text-post{
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+.image-post {
+    margin-bottom: 15px;
+}
+
+#main {
+    overflow: auto;
+}
+
+#main::-webkit-scrollbar {
+    display: none;
+}
+
+.form-control{
+  width: 400px !important;
+}
+
+.navbar-form {
+  margin-top: 0px;
+}
+
+.navbar-brand img{
+  margin-left: 175px;
+}
+
+#crt li{
+  display:inline-block;
+  padding: 5px 10px;
+}
+
+#crt li a{
+  padding:0;
+}
+
+#menu a{
+  color:black;
+}
+
+.embed-responsive-16by9{
+  margin-bottom: 15px !important;
+}
+
+.media-body p{
+  padding-left: 0px;
+}
+
+.media-heading input{
+  width: 100% !important;
+}
+
+#header .badge{
+  position: absolute;
+  top:8px;
+  right: 3px;
+  background-color: red;
+  padding-left: 5px;
+  border-radius: 30% !important;
+}
+
+#header .glyphicon{
+  position: relative;
+}
+
+#bday{
+  padding: 17px;
+  border: 1px solid grey;
+  background: e9ebee;
+  margin-bottom: 20px;
+}
+
+.panel-title{
+  margin-left: 4px;
+}
+
+#sidebar{
+  background: #fff;
+}
